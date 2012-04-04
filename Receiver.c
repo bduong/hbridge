@@ -7,7 +7,7 @@
 
 
 // bit masks for P1 on the RF2500 target board
-q#define LED1_MASK              0x01	
+#define LED1_MASK              0x01	
 #define LED2_MASK              0x02
 #define SW1_MASK               0x04 
 #define flashcount			   5000
